@@ -1,4 +1,4 @@
 # GittDemo1
 This is my first git repository
 <br>
-Author-Gayatri Palai
+Author-Gayatri Palai(GIFT)
